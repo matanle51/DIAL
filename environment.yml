@@ -1,0 +1,11 @@
+name: DIAL
+
+channels:
+  - conda-forge
+  - pytorch
+
+dependencies:
+  - pip
+  - python=3.9.2
+  - pytorch=1.8.1
+  - torchvision=0.9.1
