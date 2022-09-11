@@ -8,6 +8,8 @@ This repository provides code for training and evaluation of Domain Invariant Ad
 - torch = 1.8.1
 - torchvision = 0.9.1
 
+## Trained models
+Trained models for CIFAR-10, CIFAR-100, and SVHN are available [here](https://drive.google.com/drive/folders/1osCczvaoA88WLpAkUrHBn4yxX2sEzbXH?usp=sharing)
 
 ## How to run DIAL:
 
